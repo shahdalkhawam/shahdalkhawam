@@ -1,37 +1,22 @@
-# hey, i'm shahd شّهد
+### hey, i'm shahd شّهد
 
-i spend most of my time somewhere between robotics, AI, teaching, and building things that probably shouldn't work but somehow do.
+robotics • AI • software • education
 
-currently:
-- coaching students in robotics & programming
-- learning machine learning and computer vision
-- building web and java project for uni
-- building projects with raspberry pi, arduino, and whatever hardware i can get my hands on
-- trying to understand how intelligent systems actually work
+currently teaching robots, studying intelligence, and convincing hardware to cooperate.
 
----
+> the more i learn, the more i realize i know nothing.
 
-### things i'm interested in
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,arduino,raspberrypi,git,linux,mysql" />
+</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+```txt
+Current Focus:
+[████████░░] Robotics
+[███████░░░] AI
+[██████░░░░] Research
+[█████░░░░░] Sleep
 
-- autonomous systems
-- robotics
-- computer vision
-- machine learning
-- embedded systems
-- research
-
----
-
-### recent rabbit holes
-
-- semantic segmentation
-- edge ai
-- kinematics
-- assembly language
-- numerical methods
-- satellite imagery
-- why my code works on the second run but not the first
-
----
-
- the more I learn, the more I realize I know nothing
