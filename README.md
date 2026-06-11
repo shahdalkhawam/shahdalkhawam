@@ -11,7 +11,7 @@ currently:
 
 ---
 
-## things i'm interested in
+### things i'm interested in
 
 - autonomous systems
 - robotics
