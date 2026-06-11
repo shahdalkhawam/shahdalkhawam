@@ -1,16 +1,44 @@
-## Hi there 👋
+# hey, i'm shahd شّهد
 
-<!--
-**shahdalkhawam/shahdalkhawam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i spend most of my time somewhere between robotics, AI, teaching, and building things that probably shouldn't work but somehow do.
 
-Here are some ideas to get you started:
+currently:
+- coaching students in robotics & programming
+- learning machine learning and computer vision
+- building web and java project for uni
+- building projects with raspberry pi, arduino, and whatever hardware i can get my hands on
+- trying to understand how intelligent systems actually work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## things i'm interested in
+
+- autonomous systems
+- robotics
+- computer vision
+- machine learning
+- embedded systems
+- research
+- engineering education
+
+---
+
+## recent rabbit holes
+
+- semantic segmentation
+- edge ai
+- kinematics
+- assembly language
+- numerical methods
+- satellite imagery
+- why my code works on the second run but not the first
+
+---
+
+## philosophy
+
+build things.
+break things.
+figure out why they broke.
+write it down.
+repeat.
