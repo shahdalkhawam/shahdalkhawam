@@ -19,11 +19,10 @@ currently:
 - machine learning
 - embedded systems
 - research
-- engineering education
 
 ---
 
-## recent rabbit holes
+### recent rabbit holes
 
 - semantic segmentation
 - edge ai
@@ -35,10 +34,4 @@ currently:
 
 ---
 
-## philosophy
-
-build things.
-break things.
-figure out why they broke.
-write it down.
-repeat.
+ the more I learn, the more I realize I know nothing
