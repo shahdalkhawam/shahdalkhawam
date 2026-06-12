@@ -11,7 +11,7 @@ currently teaching robots, studying intelligence, and convincing hardware to coo
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=shahdalkhawam&hide_border=true&theme=github_dark" />
+  <img height="100" src="https://streak-stats.demolab.com?user=shahdalkhawam&hide_border=true&theme=github_dark" />
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdalkhawam&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
 
