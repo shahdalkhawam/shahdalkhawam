@@ -1,7 +1,6 @@
 ### hey, i'm shahd شّهد
 
 robotics • AI • software • education
-
 currently teaching robots, studying intelligence, and convincing hardware to cooperate.
 
 > the more i learn, the more i realize i know nothing.
@@ -14,20 +13,12 @@ currently teaching robots, studying intelligence, and convincing hardware to coo
   <img height="140" src="https://streak-stats.demolab.com?user=shahdalkhawam&hide_border=true&theme=github_dark" />
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdalkhawam&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
-
-
 <img  height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahdalkhawam&theme=github_dark" />
 
-
 ```txt
-
-
-
-
 Current Focus:
 [████████░░] Interesting Projects
 [███████░░░] AI
 [██████░░░░] Research
 [█████░░░░░] Sleep
-
 ```
