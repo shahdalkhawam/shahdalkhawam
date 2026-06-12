@@ -14,9 +14,10 @@ currently teaching robots, studying intelligence, and convincing hardware to coo
 <img src="https://streak-stats.demolab.com?user=shahdalkhawam&hide_border=true" />
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahdalkhawam)](https://github.com/shahdalkhawam)
 
+```txt
 Current Focus:
-\n [████████░░] Robotics
-\n [███████░░░] AI
-\n [██████░░░░] Research
-\n [█████░░░░░] Sleep
+[████████░░] Robotics
+[███████░░░] AI
+[██████░░░░] Research
+[█████░░░░░] Sleep
 
