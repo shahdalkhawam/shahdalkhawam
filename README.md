@@ -6,7 +6,7 @@ currently teaching robotics, studying intelligence, and convincing hardware to c
 > the more i learn, the more i realize i know nothing.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,arduino,raspberrypi,git,linux,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,opencv,arduino,raspberrypi,git,linux,mysql,photoshop,illustrator," />
 </p>
 
 <p align="left">
