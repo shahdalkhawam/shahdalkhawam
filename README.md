@@ -1,7 +1,7 @@
 ### hey, i'm shahd شّهد
 
 robotics • AI • software • education • 
-currently teaching robots, studying intelligence, and convincing hardware to cooperate.
+currently teaching robotics, studying intelligence, and convincing hardware to cooperate.
 
 > the more i learn, the more i realize i know nothing.
 
