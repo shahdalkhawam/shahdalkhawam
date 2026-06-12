@@ -16,9 +16,6 @@ currently teaching robots, studying intelligence, and convincing hardware to coo
 <img  height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahdalkhawam&theme=github_dark" />
 
 ```txt
-Current Focus:
 [████████░░] Interesting Projects
-[███████░░░] AI
-[██████░░░░] Research
-[█████░░░░░] Sleep
+[█░░░░░░░░░] Sleep
 ```
